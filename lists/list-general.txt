@@ -46,3 +46,6 @@ betterttv.net
 7tv.io
 itch.io
 html-classic.itch.zone
+itch.io
+html-classic.itch.zone
+chyoa.com
